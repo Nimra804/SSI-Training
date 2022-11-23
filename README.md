@@ -1,0 +1,2 @@
+# SSI-Training
+Katalon-Studio
